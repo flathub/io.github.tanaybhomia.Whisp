@@ -16,4 +16,4 @@ modules:
       - type: git
         url: https://github.com/tanaybhomia/Whisp.git
         tag: v1.2.1
-        commit: a69735418b62bc380db398ffbea5ac7243408c4d
+        commit: 1fbcd75e156e063f2c295d7d01e14c39c1bcfed9
