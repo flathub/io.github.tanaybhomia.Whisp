@@ -15,5 +15,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/tanaybhomia/Whisp.git
-        tag: v1.3.6
+        tag: v1.3.7
         commit: 7dcfd1d28c399f608c5b06894fa2f74de12d3194
